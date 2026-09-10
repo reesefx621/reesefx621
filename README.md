@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Reese (@reesefx621)
 
-<!--
-**reesefx621/reesefx621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Paris. Mostly writing Rust and digging into low-level systems stuff these days.
 
-Here are some ideas to get you started:
+#### What I'm into
+- Building small, fast CLI utilities and toy runtimes
+- Compiling Rust to WebAssembly for sandbox experiments
+- Linux internals, memory allocators, and async primitives
+- Keeping dependency trees as small as possible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+- **Core:** Rust, C, WebAssembly (Wasmtime), POSIX Shell
+- **Environment:** Linux, Git, Neovim, Make, GDB
+
+#### Reach me
+- Email: reesefx@proton.me
+- Matrix: `@reesefx:matrix.org`
